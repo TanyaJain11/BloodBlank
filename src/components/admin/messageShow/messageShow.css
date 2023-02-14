@@ -1,0 +1,8 @@
+.message-component{
+    width: 100%;
+    /* background-color: black; */
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4));
+    border-radius: 5px;
+    margin-top: 2rem !important;
+    padding: 0.5rem !important;
+}
